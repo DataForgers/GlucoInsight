@@ -1,11 +1,7 @@
-pandas
+streamlit
+joblib
 numpy
 matplotlib
-seaborn
-streamlit
-scikit-learn
-imbalanced-learn
-reportlab
+pandas
 plotly
-Pillow
-joblib
+requests

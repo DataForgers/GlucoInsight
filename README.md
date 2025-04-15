@@ -61,5 +61,11 @@ The platform is designed to improve awareness, accessibility, and accuracy of di
 
 ---
 
-## 📊 Project Structure
+## 📌 Future Work
 
+- Expand symptom dataset with more diverse entries  
+- Add medical biomarkers (e.g., HbA1c)  
+- Deploy in a distributed cloud environment  
+- Integrate real-time data from wearables
+
+> *Empowering communities with early, accessible, and intelligent diabetes detection.*
